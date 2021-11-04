@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Locus</title>
-    <link rel="shortcut icon" href="img/favicon/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/png">
     <!-- GOOGLE FONTS - ROBOTO-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
